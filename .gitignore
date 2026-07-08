@@ -1,0 +1,21 @@
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment
+.env
+.env.*
+
+# Local SQLite dev database
+*.db
+*.db-shm
+*.db-wal
+# Uploaded recipe images (user content, not source)
+Server/wwwroot/uploads/
